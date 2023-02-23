@@ -4,7 +4,7 @@
 # git
 <html>
     <tittle>Head</tittle>
-    <body>
+    <body bgcolor="pink">
         <center>THIS IS MY PAGE HEADING</center>
     </body>
 </html>
